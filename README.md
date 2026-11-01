@@ -1,4 +1,4 @@
-# 🖱️ IGPC Vendors List
+# 🖱️ GPN Vendors List
 
 A curated list of vendors for gaming peripherals, mechanical keyboards, and custom gear in India.
 
